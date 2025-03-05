@@ -5,7 +5,7 @@
 1. Projeyi klonlayın:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/murselsen/goit-js-hw-09-start.git
 ```
 
 2. Proje dizinine gidin:
@@ -38,4 +38,4 @@ npm run build
 npm run deploy
 ```
 
-# Ödev  Hazır :-)
+# Ödev Hazır :-)
