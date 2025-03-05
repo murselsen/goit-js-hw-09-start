@@ -38,4 +38,4 @@ npm run build
 npm run deploy
 ```
 
-# Ödev Hazır :-)
+# Ödev  Hazır :-)
